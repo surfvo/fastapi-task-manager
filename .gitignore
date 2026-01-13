@@ -1,1 +1,13 @@
+# IDE
 .idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# env
+.env
+.venv/
+venv/
